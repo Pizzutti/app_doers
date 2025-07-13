@@ -2,3 +2,4 @@ streamlit
 pdfplumber
 PyPDF2
 pymupdf
+sentence_transformers
